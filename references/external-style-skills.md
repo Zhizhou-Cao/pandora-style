@@ -17,8 +17,8 @@ runtime, then localize its visual language through the Regional Style Contract.
 
 | Selector | Installed source | Regional use | License |
 |---|---|---|---|
-| `external:gc-minimal-zine-poster-v0-1` | local original | quiet zine paper, halftone/xerox wear, restrained type, one source-justified accent | local package |
-| `external:scenes-gathered-zine-v1-3` | local original | truthful-photo and paper-illustration continuity, torn or printed transitions | local package |
+| `external:gc-minimal-zine-poster-v0-1` | `LiamGvchi/gc-minimal-zine-poster`| quiet zine paper, halftone/xerox wear, restrained type, one source-justified accent | local package |
+| `external:scenes-gathered-zine-v1-3` | `Zeejay0/gathered-scenes-zine-skill`| truthful-photo and paper-illustration continuity, torn or printed transitions | local package |
 | `external:ni-poster/scene-distillation` | `ttttstc/ni-skill` | authored source-derived illustration and visual metaphor inside masks; do not import its global no-photo rule | MIT plus bundled upstream notices |
 | `external:ni-poster/photo-abstract-editorial` | `ttttstc/ni-skill` | clean editorial abstraction and source-derived memory-panel language inside masks | MIT plus bundled upstream notices |
 | `external:photo-riso-poster` | `luckdvr/photo-riso-poster` | 2–3 ink risograph, evidence-led abstraction, count/interval/direction preservation | MIT |
