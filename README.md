@@ -23,6 +23,9 @@ The 108 built-in styles are self-contained. Selectors beginning with `external:`
 
 108 种内置风格可直接使用；以 `external:` 开头的选择器需要另外安装对应的第三方 Skill。
 
+![Pandora Style 试用流程图](images/workflow.png)
+![Pandora Style 三种区域模式效果](images/example.png)
+
 ---
 
 ## 中文说明
