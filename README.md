@@ -2,7 +2,9 @@
 
 **Source-aware regional photo stylization for Codex.** Keep the photograph truthful outside selected regions, while applying print, photographic, drawing, craft, digital, poster, zine, external, or dynamically created styles inside them.
 
-**面向 Codex 的照片局部风格转换 Skill。** 未选区域保留真实照片，只在由原图结构或语义轮廓决定的区域内改变视觉风格。
+**面向 Codex 的照片局部风格转换 Skill。** 
+
+未选区域保留真实照片，只在由原图结构或语义轮廓决定的区域内改变视觉风格。
 
 [中文说明](#中文说明) · [English Guide](#english-guide) · [Skill Instructions](SKILL.md) · [MIT License](LICENSE)
 
