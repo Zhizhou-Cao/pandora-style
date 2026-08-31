@@ -1,0 +1,21 @@
+# Research Sources
+
+- MoMA Art Terms: https://www.moma.org/collection/terms/
+- MoMA Cubism: https://www.moma.org/collection/terms/cubism/what-is-cubism
+- MoMA Futurism: https://www.moma.org/collection/terms/futurism
+- MoMA Minimalism: https://www.moma.org/collection/terms/minimalism
+- MoMA Pop Art: https://www.moma.org/collection/terms/pop-art
+- MoMA Dada: https://www.moma.org/collection/terms/dada
+- MoMA Surrealism: https://www.moma.org/collection/terms/surrealism
+- MoMA Generative Art: https://www.moma.org/collection/terms/generative-art
+- V&A, An A to Z of Photographic Processes: https://www.vam.ac.uk/articles/photographic-processes
+- V&A, Cameraless Photography: https://www.vam.ac.uk/articles/cameraless-photography
+- V&A, Photography Processes and Techniques: https://www.vam.ac.uk/info/collection-selection-boxes-photography-processes-and-techniques
+- V&A, Stained Glass Introduction: https://www.vam.ac.uk/articles/stained-glass-an-introduction
+- V&A, A-Z of Glass: https://www.vam.ac.uk/articles/a-z-of-glass
+- V&A, A-Z of Ceramics: https://www.vam.ac.uk/articles/a-z-of-ceramics
+- V&A, Quilting and Patchwork: https://www.vam.ac.uk/articles/an-introduction-to-quilting-and-patchwork
+- V&A, Embroidery Styles: https://www.vam.ac.uk/articles/embroidery-styles-an-illustrated-guide
+- V&A, Japanese Boro: https://www.vam.ac.uk/articles/make-your-own-japanese-boro-bag/
+- Cooper Hewitt, Memphis and Mixed Prints: https://www.cooperhewitt.org/2014/02/22/how-to-mix-prints/
+- Getty Conservation Institute, Salt Print: https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/atlas_saltprint.pdf

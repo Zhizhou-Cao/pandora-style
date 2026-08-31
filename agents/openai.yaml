@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pandora Style"
+  short_description: "Open many visual styles inside selected photo regions"
+  default_prompt: "Use $pandora-style to transform selected regions of this photo with a suitable visual style."
