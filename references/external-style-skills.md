@@ -17,8 +17,8 @@ runtime, then localize its visual language through the Regional Style Contract.
 
 | Selector | Installed source | Regional use | License |
 |---|---|---|---|
-| `external:gc-minimal-zine-poster-v0-1` | `LiamGvchi/gc-minimal-zine-poster`| quiet zine paper, halftone/xerox wear, restrained type, one source-justified accent | local package |
-| `external:scenes-gathered-zine-v1-3` | `Zeejay0/gathered-scenes-zine-skill`| truthful-photo and paper-illustration continuity, torn or printed transitions | local package |
+| `external:gc-minimal-zine-poster-v0-1` | `LiamGvchi/gc-minimal-zine-poster` | quiet zine paper, halftone/xerox wear, restrained type, one source-justified accent | MIT |
+| `external:scenes-gathered-zine-v1-3` | `Zeejay0/gathered-scenes-zine-skill` | truthful-photo and paper-illustration continuity, torn or printed transitions | personal non-commercial; commercial permission required |
 | `external:ni-poster/scene-distillation` | `ttttstc/ni-skill` | authored source-derived illustration and visual metaphor inside masks; do not import its global no-photo rule | MIT plus bundled upstream notices |
 | `external:ni-poster/photo-abstract-editorial` | `ttttstc/ni-skill` | clean editorial abstraction and source-derived memory-panel language inside masks | MIT plus bundled upstream notices |
 | `external:photo-riso-poster` | `luckdvr/photo-riso-poster` | 2–3 ink risograph, evidence-led abstraction, count/interval/direction preservation | MIT |
@@ -27,8 +27,13 @@ runtime, then localize its visual language through the Regional Style Contract.
 | `external:photo-small-world-revival` | `byJming/photo-skills-atelier` | sparse hand-drawn subject/companion relation with one localized source hue | MIT |
 | `external:torn-paper-collage-poster` | `agentara/skills` | layered torn paper, archive scraps, tape, stamps, halftone and photocopy grain | MIT |
 
-`ni-poster/standard` and `ni-poster/gathered` deliberately alias the two local
-originals above. Do not count or select them as extra styles.
+`external:gc-minimal-zine-poster-v0-1` is retained as a compatibility selector
+for existing Pandora prompts. The upstream repository currently declares the
+installed Skill as `gc-minimal-zine-poster-v0-3`; resolve the actual installed
+Skill name and read its current `SKILL.md` completely at runtime.
+
+`ni-poster/standard` and `ni-poster/gathered` deliberately overlap with the two
+external styles above. Do not count or select them as extra styles.
 
 ## Editorial Vision Studio Variants
 
@@ -120,11 +125,14 @@ only the **internal rendering**.
   this reusable collection.
 - Generic prompt optimizers and image-generation wrappers: not Style Skills and
   therefore not counted.
-- Online mirrors of the two local originals: duplicates, not installed.
+- Compatibility aliases or bundled variants that point to an already installed
+  upstream Skill are not counted as extra styles.
 
 ## Provenance
 
 - Anthropic Skills: https://github.com/anthropics/skills
+- GC Minimal Zine Poster: https://github.com/LiamGvchi/gc-minimal-zine-poster
+- Gathered Scenes Zine: https://github.com/Zeejay0/gathered-scenes-zine-skill
 - ni-poster: https://github.com/ttttstc/ni-skill/tree/main/skills/ni-poster
 - Editorial Vision Studio: https://github.com/Yu-0312/editorial-vision-studio
 - Photo Riso Poster: https://github.com/luckdvr/photo-riso-poster
