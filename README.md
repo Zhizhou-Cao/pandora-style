@@ -8,14 +8,14 @@
 
 [中文说明](#中文说明) · [English Guide](#english-guide) · [Skill Instructions](SKILL.md) · [MIT License](LICENSE)
 <p align="center">
-  <img src="images/example.png" alt="Pandora Style three region modes" width="100%">
+  <img src="images/example.png" alt="Pandora Style three region modes" width="80%">
 </p>
 
 <p align="center"><sub>从左到右：<code>semantic-fragments</code>、<code>line-guided-geometry</code>、<code>semantic-expanded</code>。同一照片与相近视觉语言，不同区域逻辑。<br>Left to right: <code>semantic-fragments</code>, <code>line-guided-geometry</code>, and <code>semantic-expanded</code>. Same source and related visual language, different mask logic.</sub></p>
 
 
 <p align="center">
-  <img src="images/workflow.png" alt="Pandora Style workflow" width="100%">
+  <img src="images/workflow.png" alt="Pandora Style workflow" width="80%">
 </p>
 
 
@@ -31,6 +31,10 @@
 > The 108 built-in styles work after installing this repository alone. Selectors beginning with `external:` require the corresponding Style Skill to be installed separately.
 >
 > 只安装本仓库即可使用 108 种内置风格。所有以 `external:` 开头的选择器都需要另外安装相应的 Style Skill。
+
+<p align="center">
+  <img src="images/example2.png" alt="Pandora Style three region modes" width="80%">
+</p>
 
 ---
 
